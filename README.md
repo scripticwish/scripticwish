@@ -8,4 +8,4 @@ Welcome to my profile. I'm Averal, 17 years old and currently researching sofwar
 
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __Youtube__ - [c/js](https://www.youtube.com/channel/UCwUoCowNq7UZCYd5dajgqMQ)
 
-- ![Telegram Logo](https://imgur.com/a/jtVRb2V) __Telegram__ - [@perfectbf](https://t.me/perfectbf)
+- ![Telegram Logo](https://i.imgur.com/hFbpcOj.png) __Telegram__ - [@perfectbf](https://t.me/perfectbf)

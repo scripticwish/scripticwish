@@ -4,6 +4,8 @@ Welcome to my profile. I'm Averal, 17 years old and currently researching sofwar
 
 ## 💬 Contact me
 
-- ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - Avral#0001
+- ![Discord Logo](https://i.imgur.com/002xgns.png) __Discord__ - Averal#0001
+
 - ![Youtube Logo](https://www.youtube.com/favicon.ico) __Youtube__ - [c/js](https://www.youtube.com/channel/UCwUoCowNq7UZCYd5dajgqMQ)
-- ![Telegram Logo](https://telegram.org/favicon.ico) __Telegram__ - [@perfectbf](https://t.me/perfectbf)
+
+- ![Telegram Logo](https://imgur.com/a/jtVRb2V) __Telegram__ - [@perfectbf](https://t.me/perfectbf)
